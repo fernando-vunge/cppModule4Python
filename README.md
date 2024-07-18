@@ -1,6 +1,6 @@
 # Base para criacao de Modulos para python 
 #
-# aahmm.. e tambem crie o meu proprio modulo, "devoo", que devia ser batixado de "joke" :)
+# aahmm..!! e tambem crie o meu proprio modulo, "devoo", uma cena basica, so para aprender :)
 
 
 
@@ -9,6 +9,7 @@
 *requisitos*
 
 >	compilador g++ ou clang++
+>
 >	interpretador Python3
 
 *{x} subistua por x*
