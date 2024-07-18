@@ -14,7 +14,7 @@
 
 *{x} subistua por x*
 ```
-g++ -shared -o devoo.so -fpic main.cpp -I {diretorio do python}}/
+g++ -shared -o devoo.so -fpic main.cpp -I {diretorio do python}/
 ```
 
 ---
