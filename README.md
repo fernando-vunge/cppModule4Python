@@ -1,6 +1,6 @@
 # Base para criacao de Modulos para python 
 #
-# aahmm..!! e tambem crie o meu proprio modulo, "devoo", uma cena basica, so para aprender :)
+# aahmm..!! e tambem crie o meu proprio modulo, [devoo], uma cena basica, so para aprender :)
 
 
 
